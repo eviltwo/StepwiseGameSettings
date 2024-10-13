@@ -1,0 +1,17 @@
+{
+    "name": "com.eviltwo.stepwise-game-settings",
+    "displayName": "Stepwise Game Settings",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "This is a module for stepwise value game settings for Unity.",
+    "author": {
+        "name": "DAIKI(eviltwo)",
+        "url": "https://github.com/eviltwo"
+    },
+
+    "keywords": [
+    ],
+
+    "dependencies": {
+    }
+}
